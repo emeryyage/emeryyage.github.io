@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Emery&#39;s Blog</title>
-    <link>https://emeryyage.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Emery&#39;s Blog</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Jul 2025 15:54:02 +0100</lastBuildDate>
-    <atom:link href="https://emeryyage.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jul 2025 00:21:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple&#39;s Advanced Data Protection may be back in the UK. Good — but there is a better way: Be ungovernable</title>
-      <link>https://emeryyage.github.io/posts/uk-apple-e2ee/</link>
-      <pubDate>Wed, 23 Jul 2025 15:54:02 +0100</pubDate>
-      <guid>https://emeryyage.github.io/posts/uk-apple-e2ee/</guid>
+      <link>http://localhost:1313/posts/uk-apple-e2ee/</link>
+      <pubDate>Thu, 24 Jul 2025 00:21:00 +0100</pubDate>
+      <guid>http://localhost:1313/posts/uk-apple-e2ee/</guid>
       <description>Users in the UK may soon get back end-to-end encryption for iCloud — but you should aim to be ungovernable instead.</description>
     </item>
   </channel>
