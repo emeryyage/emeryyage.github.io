@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Emery&#39;s Blog</description>
     <generator>Hugo -- 0.148.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jul 2025 00:21:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 20 Oct 2025 00:21:00 +0100</lastBuildDate>
     <atom:link href="https://emeryyage.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Rant About How Software Should Be</title>
+      <link>https://emeryyage.github.io/posts/how-a-software-should-be/</link>
+      <pubDate>Mon, 20 Oct 2025 00:21:00 +0100</pubDate>
+      <guid>https://emeryyage.github.io/posts/how-a-software-should-be/</guid>
+      <description>My dos and don&amp;#39;ts about developing a software in terms of payment, cloud storage, and data management.</description>
+    </item>
     <item>
       <title>Apple&#39;s Advanced Data Protection may be back in the UK. Good — but there is a better way: Be ungovernable</title>
       <link>https://emeryyage.github.io/posts/uk-apple-e2ee/</link>
